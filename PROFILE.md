@@ -2,7 +2,8 @@
 ## University of Washington
 ### Info 201b
 
-Me:![photo of me](C:\Users\megak\Documents\Study\SP 19\info 201b\week 2\lab1_exercise\images\F1020010.JPG)
+Me:
+[photo of me](https://github.com/megakun/lab1_exercise/blob/master/images/F1020010.JPG)
 
 I am a *freshman* studying at the **College of Engineering**, staying at *maple hall*.
 
