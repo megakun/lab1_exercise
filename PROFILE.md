@@ -3,7 +3,7 @@
 ### Info 201b
 
 Me:
-![photo of me](/https://github.com/megakun/lab1_exercise/blob/master/images/F1020010.JPG)
+![photo of me](https://github.com/megakun/lab1_exercise/blob/master/images/F1020010.JPG)
 
 I am a *freshman* studying at the **College of Engineering**, staying at *maple hall*.
 
